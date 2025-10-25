@@ -1,1 +1,0 @@
-// Footer loader with year update
